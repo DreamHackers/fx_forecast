@@ -1,5 +1,6 @@
 import asyncio
 import urllib.request
+from bs4 import BeautifulSoup
 
 class Collector:
     def __init__(self, urls):
@@ -11,13 +12,15 @@ class Collector:
 
     async def fetch(self):
         return await asyncio.wait(
-            [self.download(url) for url in self.urls]
+            [self.scraping(url) for url in self.urls]
         )
 
-    async def download(self, url):
+    async def scraping(self, url):
         requst = urllib.request.Request(url)
         html = urllib.request.urlopen(requst).read()
         print("{0} download finish".format(url))
+        bs = BeautifulSoup(html, "lxml")
+        print(bs.title.string)
         return html
 
 if __name__ == "__main__":
