@@ -1,0 +1,209 @@
+<tr>
+ <td align="middle" colspan="6" style="BACKGROUND-COLOR: #b9b9ff; COLOR: #000000">
+  <font size="-1">
+   <strong>
+    各社別本日のドル円予想レンジ
+   </strong>
+  </font>
+ </td>
+</tr>
+
+ROW------------------------------------------------------------------------------------------------------------------------------------------------------
+<tr bgcolor="#ddddff">
+ <td align="middle" width="75">
+  <font size="-1">
+   各社
+  </font>
+ </td>
+ <td align="middle" width="97">
+  <font size="-1">
+   発表時間
+  </font>
+ </td>
+ <td align="middle" width="110">
+  <font size="-1">
+   各社の予想レンジ
+  </font>
+ </td>
+ <td align="middle" width="379">
+  <font size="-1">
+   リンク先記事
+  </font>
+ </td>
+ <td align="middle" width="43">
+  <font size="-1">
+   リンク
+  </font>
+ </td>
+</tr>
+
+ROW------------------------------------------------------------------------------------------------------------------------------------------------------
+<tr>
+ <td height="10" style="background-color:#ffffff;color:#000000" width="75">
+  <font size="-1">
+   MorningStar
+  </font>
+ </td>
+ <td style="background-color:#ffffff;color:#000000" width="97">
+  <font size="-1">
+   29日8時32分
+  </font>
+ </td>
+ <td align="center" style="background-color:#ffffff;color:#000000" width="110">
+  <font size="-1">
+   113.00-114.50
+  </font>
+ </td>
+ <td style="background-color:#ffffff;color:#000000" width="356">
+  <font size="-1">
+   予想レンジ：１ドル＝１１３円００銭－１１４円５０銭
+
+　２９日の東京外国為替市場でドル・円はもみ合いとなりそうだ。前週末は米経済指標の上ブレを受けたドル買いで１ドル＝１１３円前後から１１４円まで上昇した。
+
+　上海で２６－２７日に開かれたＧ２０（２０カ国・地域）財務相・中央銀行総裁会議は、日本に関して「金融政策のみでは、均衡ある成長につながらない」「通貨の競争的な切り下げを回避」といった文言を並べており、これらが日銀の追加緩和の障害になるならドル・円の上値は重くなる。
+
+　ただ、何か具体的に経済政策の協調で合意が成立したわけではなく、構造政策についても国別に強いコミットメントが得られたわけではない。Ｇ２０の影響は限定的で引き続き株価と原油価格に動かされる展開が続く可能性は高い。
+
+◎関連情報は投資の参考として情報提供のみを目的としたものであり、為替取引に当たっては自己責任に基づき、ご自身で判断をお願いします。
+  </font>
+ </td>
+ <td align="center" style="background-color:#ffffff;color:#000000" width="43">
+  <font size="-1">
+   <a href="http://news.finance.yahoo.co.jp/detail/20160229-00143831-mosf-market" target="情報元">
+    有
+   </a>
+  </font>
+ </td>
+</tr>
+
+ROW------------------------------------------------------------------------------------------------------------------------------------------------------
+<tr>
+ <td height="10" style="background-color:#ffffff;color:#000000" width="75">
+  <font size="-1">
+   SMBC信託銀行
+  </font>
+ </td>
+ <td style="background-color:#ffffff;color:#000000" width="97">
+  <font size="-1">
+   2016/2/29　9:03時点
+  </font>
+ </td>
+ <td align="center" style="background-color:#ffffff;color:#000000" width="110">
+  <font size="-1">
+   113.30-114.50
+  </font>
+ </td>
+ <td style="background-color:#ffffff;color:#000000" width="356">
+  <font size="-1">
+   ドル円は上昇。米国で発表された昨年10-12月期の実質GDP（改定値）は前期比年率1.0％増と速報値（同0.7％増）から予想外の上方修正となったほか、一連の経済指標が堅調であったことから、同国の景気減速懸念が後退した。ドル円は114円付近まで上昇し、2月18日以来の高値を付けた。なお、週末の20カ国・地域（G20）財務相・中央銀行総裁会議では、「あらゆる政策手段を動員する」とし、市場の安定や均衡のとれた成長を目指すとの共同声明が採択された。ドル円は週明け早朝に113円台半ば付近まで反落しているが、3月4日に2月の米雇用統計など重要な米経済指標が発表されるため、ドルの下値も限定的か。チャート上、111円で二番底を打ったとみれば、目先は16日高値114円87銭で上値の抵抗を受けるとみている。
+  </font>
+ </td>
+ <td align="center" style="background-color:#ffffff;color:#000000" width="43">
+  <font size="-1">
+   <a href="https://www.smbctb.co.jp/rates_reports/reports/fx_daily.html" target="情報元">
+    有
+   </a>
+  </font>
+ </td>
+</tr>
+
+ROW------------------------------------------------------------------------------------------------------------------------------------------------------
+<tr>
+ <td height="10" style="background-color:#ffffff;color:#000000" width="75">
+  <font size="-1">
+   FISCO
+  </font>
+ </td>
+ <td style="background-color:#ffffff;color:#000000" width="97">
+  <font size="-1">
+   29日9時24分
+  </font>
+ </td>
+ <td align="center" style="background-color:#ffffff;color:#000000" width="110">
+  <font size="-1">
+   113.40-114.40
+  </font>
+ </td>
+ <td style="background-color:#ffffff;color:#000000" width="356">
+  <font size="-1">
+   【買い要因】・米国雇用環境の改善・2016年も国内投資家は一定規模の外債投資継続の見込み・新興国市場から米国市場への資金還流の思惑・日・10-12月期gdpマイナスに伴う政策への期待感
+  </font>
+ </td>
+ <td align="center" style="background-color:#ffffff;color:#000000" width="43">
+  <font size="-1">
+   <a href="http://news.finance.yahoo.co.jp/detail/20160229-01929006-fisf-fx.vip" target="情報元">
+    有
+   </a>
+  </font>
+ </td>
+</tr>
+
+ROW------------------------------------------------------------------------------------------------------------------------------------------------------
+<tr>
+ <td height="10" style="background-color:#ffffff;color:#000000" width="75">
+  <font size="-1">
+   みずほ銀行
+  </font>
+ </td>
+ <td style="background-color:#ffffff;color:#000000" width="97">
+  <font size="-1">
+   2016年2月29日
+  </font>
+ </td>
+ <td align="center" style="background-color:#ffffff;color:#000000" width="110">
+  <font size="-1">
+   112.80-114.70
+  </font>
+ </td>
+ <td style="background-color:#ffffff;color:#000000" width="356">
+  <font size="-1">
+   26日のドル円は上昇。113.14レベルでオープンしたドル円は、前日終値比高く寄り付いた日経平均株価の軟調な動きにつれられじりじりと下落、一時112．56レベルを付けた。しかしその後は欧州株の堅調さや原油価格・米金利の上昇を受けてドル円は底堅く推移、米GDP改定値やその他各指標が予想を上回る内容となったことが好感され、114.00レベルまで上昇、そのままNYクローズを迎えている。■本日のドル円は小確りとした推移を予想注目された上海G20の声明におけるポイントとし　。ては、①現在の市場の変動は経済のファンダメンタルズを反映していない、②財政・構造改革も含め政策を総動員する、③競争的な通貨切り下げへの牽制、に言及されたことか。これらは一定の安心感を市場に与えるだろうが、具体性には乏しい内容となり、市場混乱の元となっている原油や中国等の問題は先送りになっていることから、市場への効果は限定的あるいは一時的なものに留まると見ている。一方、今週は米で雇用統計やISM景況指数など重要指標の発表が相次ぎ、今後の利上げに米経済が耐え得るか注目が集まる。先週根本的なリスクは残存しており、更にイギリスのEU離脱や各地で増える難民問題などがG20で新たなリスクとして取り上げられている。米経済指標が予想を下回る場合と併せて、すぐに円高方向に戻されてしまう可能性には引き続き警戒が必要だろう。■
+  </font>
+ </td>
+ <td align="center" style="background-color:#ffffff;color:#000000" width="43">
+  <font size="-1">
+   <a href="http://www.mizuhobank.co.jp/rate/market/pdf/daily/dmn160229.pdf" target="情報元">
+    有
+   </a>
+  </font>
+ </td>
+</tr>
+
+ROW------------------------------------------------------------------------------------------------------------------------------------------------------
+<tr>
+ <td height="10" style="background-color:#ffffff;color:#000000" width="75">
+  <font size="-1">
+   ヒロセ通商
+  </font>
+ </td>
+ <td style="background-color:#ffffff;color:#000000" width="97">
+  <font size="-1">
+   2016-02-29 10:44:29
+  </font>
+ </td>
+ <td align="center" style="background-color:#ffffff;color:#000000" width="110">
+  <font size="-1">
+   116.40-112.50
+  </font>
+ </td>
+ <td style="background-color:#ffffff;color:#000000" width="356">
+  <font size="-1">
+   Ｇ２０ではほぼ予想通りの内容となり、不安感を完全に払しょくするには至らなかった。しかし、先週末の流れを見るとドル円は久しぶりに上昇の勢いがみられた。Ｇ２０前のポジションの巻き戻しが主な上昇要因とみられるが、米国経済への期待からのドル買いも目立ち始めた。
+今週は米2月ＩＳＭ製造業・非製造業景況指数や雇用統計といった重要な指標発表を控える。特に米2月ＩＳＭ非製造業景況指数は国内需要の底力が残るものか注目される。
+注目の雇用統計での雇用者数は前月の反動から19.3万人増と見込まれる。ただ、大雪の影響やエネルギー関連の失業者数が増加していることもあり、予想外の下振れには注意したい。
+テクニカル的にみると、115円という大台が大きな節目となるだろう。
+115円付近には111円をダブルボトムとしたネックラインでもあり、フィボナッチの38.2％戻しとも一致する。ボリンジャーバンドの下限また、黒田レンジの下限と認識されていたことから、心理的にも大きな節目となる。このレベルを上抜けするようなら50％戻しとなる116円ミドル付近が視野に入る。
+
+今週のドル円予想レンジ：116円40銭（50％）～112円50銭
+  </font>
+ </td>
+ <td align="center" style="background-color:#ffffff;color:#000000" width="43">
+  <font size="-1">
+   <a href="http://kazamidorifx.blog115.fc2.com/blog-date-20160229.html" target="情報元">
+    有
+   </a>
+  </font>
+ </td>
+</tr>
+
+ROW------------------------------------------------------------------------------------------------------------------------------------------------------
